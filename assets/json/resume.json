@@ -1,48 +1,58 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aniruddha Ganguly",
+    "label": "CS PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "aniruddhags3927@gmail.com",
+    "phone": "(631) 495-4875",
+    "url": "https://ags3927.github.io",
+    "summary": "I am a PhD candidate in Computer Science at Stony Brook University, specializing in Spatial Transcriptomics and Medical Image Analysis using Deep Learning. My research focuses on developing novel algorithms and models that use multi-omics data to facilitate clinical decision-making. I have a strong background in machine learning, and computer vision, and I am passionate about applying these technologies to solve medically relevant problems. I am also an avid musician trained in Indian classical music as a vocalist. In my spare time I enjoy reading high fantasy novels and playing video games. My current reading list mostly consists of Brandon Sanderson's works and Mistborn is my favorite book series. I am a former Dota 2 player (read addict) and have over 9000 hours of playtime (not something I am proud of).",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "51 Joline Road",
+      "postalCode": "NY 11776",
+      "city": "Port Jefferson Station",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "gangulyaniruddha",
+        "url": "https://www.linkedin.com/in/gangulyaniruddha"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+        "name": "Stony Brook University",
+        "position": "Research Assistant",
+        "url": "",
+        "startDate": "2024-01-01",
+        "endDate": "Present",
+        "summary": "Graph Neural Networks and efficient graph construction for gene expression prediction from histopathology images in Spatial Transcriptomics (ST). Uncertainty guided gene expression smoothing.",
+        "highlights": ["Spatial Transcriptomics", "Graph Neural Networks", "Uncertainty Quantification", "Medical Image Analysis"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+        "position": "AI Engineer",
+        "name": "Intelligent Machines",
+        "url": "https://www.linkedin.com/company/intelligentmachines",
+        "startDate": "2021-07",
+        "endDate": "2022-11",
+        "summary": "Built, scaled, and maintained multi-class real-time object detectors achieving 95%+ detection accuracy and reducing client costs by over 350%.",
+        "highlights": [
+            "Object Detection", "MLOps", "Databricks", "TensorFlow", "GCP"
+        ]
+    },
+    {
+        "position": "Blockchain Engineer",
+        "name": "Technohaven Company Ltd.",
+        "url": "https://technohaven.com",
+        "startDate": "2020-11",
+        "endDate": "2022-01",
+        "summary": "Built enterprise-scale private blockchain solutions for clients using Hyperledger Fabric and R3 Corda.",
+        "highlights": [
+            "Blockchain Development", "Hyperledger Fabric", "R3 Corda"
+        ]
     }
   ],
   "education": [
