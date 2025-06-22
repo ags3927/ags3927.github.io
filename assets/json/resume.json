@@ -66,6 +66,17 @@
       "endDate": "Present",
       "score": "3.87/4.00",
       "courses": ["Medical Imaging", "Computer Vision", "Visualization"]
+    },
+    {
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.buet.ac.bd/",
+      "area": "Computer Science and Engineering",
+      "studyType": "BSc",
+      "startDate": "2017-02",
+      "endDate": "2021-02",
+      "score": "3.73/4.00",
+      "courses": ["Machine Learning", "Data Structures and Algorithms", "Compiler Design", "Computer Graphics"]
     }
   ],
   "awards": [
@@ -91,21 +102,7 @@
       "publisher": "CVPR 2025",
       "releaseDate": "2025-06",
       "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ganguly_MERGE_Multi-faceted_Hierarchical_Graph-based_GNN_for_Gene_Expression_Prediction_from_CVPR_2025_paper.pdf",
-      "summary": "MERGE (Multi-faceted hiErarchical gRaph for Gene Expressions), which combines a multi-faceted hierarchical graph construction strategy with graph neural networks (GNN) to improve gene expression predictions from WSIs. By clustering tissue image patches based on both spatial and morphological features, and incorporating intra- and inter-cluster edges, our approach fosters interactions between distant tissue locations during GNN learning. As an additional contribution, we evaluate different data smoothing techniques that are necessary to mitigate artifacts in ST data, often caused by technical imperfections and advocate for adopting gene-aware smoothing methods that are more biologically justified."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": "MERGE (Multi-faceted hiErarchical gRaph for Gene Expressions) combines a multi-faceted hierarchical graph construction strategy with graph neural networks (GNN) to improve gene expression predictions from WSIs. By clustering tissue image patches based on both spatial and morphological features, and incorporating intra- and inter-cluster edges, our approach fosters interactions between distant tissue locations during GNN learning. As an additional contribution, we evaluate different data smoothing techniques that are necessary to mitigate artifacts in ST data, often caused by technical imperfections and advocate for adopting gene-aware smoothing methods that are more biologically justified."
     }
   ],
   "skills": [
